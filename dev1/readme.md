@@ -14,13 +14,13 @@
 # 実行手順
 1. dataフォルダを作成し、そこにdocxおよびxlsxファイルを置きます。フォルダ階層があってもOKです。
 2. pipenv run python parse.py
-  - parsed.csvが作成されます。
+    - parsed.csvが作成されます。
 3. pipenv run python vector.py
-  - feature.csvが作成されます
+    - feature.csvが作成されます
 4. pipenv run python cosine.py
-  - topN.csvが作成されます。
+    - topN.csvが作成されます。
 5. pipenv run streamlit run cosine_st.py
-  - webアプリが起動します。http://localhost:8501 にアクセスします。
+    - webアプリが起動します。http://localhost:8501 にアクセスします。
 
 # 使い方
 webブラウザでhttp://localhost:8501 にアクセスします。画面の指示に従いDOCXやXLSXファイルをアップロードします。アップロードしたファイルのテキストを解析し、dataフォルダにあるDOCXやXLSXファイルと照らし合わせて、内容が類似したものを類似度順に3点表示します。
