@@ -5,8 +5,6 @@
 2. [開発2：社内にたまっているPDFの検索](./dev2/readme.md)
 3. [開発3：社内にたまっている写真の検索](./dev3/readme.md)
 
-<!--
 # 参考文献
 - 電子書籍「はじめてのAIxDX～ひとり情シスが社内データをDXしちゃうぞ～」 
-  - https://www.amazon.co.jp/dp/B01MZ6CS1M
--->
+  - [amazon](https://www.amazon.co.jp/dp/B0BW6SGT3T?&_encoding=UTF8&tag=nmori1984-22&linkCode=ur2&linkId=77e382a61028a3933288db82d8473ffa&camp=247&creative=1211)
